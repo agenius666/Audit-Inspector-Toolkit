@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+venv/
+env/
+.venv/
+
+# Database
+/saved_data/
+*.db
+*.sqlite
+
+# Data files
+*.xlsx
+*.xls
+*.csv
+*.parquet
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.code-workspace
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
